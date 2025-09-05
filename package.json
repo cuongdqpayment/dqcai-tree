@@ -1,6 +1,6 @@
 {
   "name": "@dqcai/tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A TypeScript library for converting arrays to tree structures and vice versa",
   "main": "lib/index.js",
